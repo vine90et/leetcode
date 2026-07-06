@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vine90et/leetcode/tree/master/0200-number-of-islands) |
 | [1046-last-stone-weight](https://github.com/vine90et/leetcode/tree/master/1046-last-stone-weight) |
+| [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vine90et/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vine90et/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vine90et/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
