@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vine90et/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vine90et/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vine90et/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vine90et/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vine90et/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/vine90et/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vine90et/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vine90et/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vine90et/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vine90et/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -124,9 +128,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vine90et/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vine90et/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
