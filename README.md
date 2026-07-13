@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vine90et/leetcode/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/vine90et/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-last-stone-weight](https://github.com/vine90et/leetcode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vine90et/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vine90et/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
