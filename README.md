@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vine90et/leetcode/tree/master/0200-number-of-islands) |
 | [0334-increasing-triplet-subsequence](https://github.com/vine90et/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/vine90et/leetcode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vine90et/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vine90et/leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vine90et/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vine90et/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/vine90et/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vine90et/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
