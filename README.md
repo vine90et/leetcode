@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vine90et/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/vine90et/leetcode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/vine90et/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vine90et/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vine90et/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/vine90et/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vine90et/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/vine90et/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vine90et/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -221,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
