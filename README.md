@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vine90et/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vine90et/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vine90et/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vine90et/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vine90et/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vine90et/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,13 +231,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vine90et/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vine90et/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vine90et/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/vine90et/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
